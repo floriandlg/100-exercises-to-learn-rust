@@ -8,3 +8,5 @@ fn example() {
     let wrapping: WrappingU32 = 42.into();
     let wrapping = WrappingU32::from(42);
 }
+
+#test
